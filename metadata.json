@@ -1,0 +1,6 @@
+{
+  "name": "PROMETHEUS-X",
+  "description": "Open-Set Industrial Anomaly Detection with Pixel-Level Localization, Severity Estimation, Confidence Calibration, and Distribution Shift Monitoring.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
